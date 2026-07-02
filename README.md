@@ -142,3 +142,6 @@ sudo mdadm --detail  /dev/md0
 **System Administration**: Mastered core sysadmin tools, including mdadm, losetup, and filesystem mounting procedures. 
 
 
+**Full PDF file is here to download:**
+
+[Linux-RAID-5-Resilience-Cloud-Infrastructure-Lab](/Linux-RAID-5-Resilience-Cloud-Infrastructure-Lab)
